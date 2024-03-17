@@ -16,9 +16,9 @@ Certifique-se de ter o Node.js instalado em seu sistema. Você pode baixá-lo em
 2. Navegue até o diretório do projeto usando o terminal.
 3. Execute o seguinte comando para instalar as dependências:
 
-   ```
+```
    npm install
-   ```
+```
 
 ### Execução
 
