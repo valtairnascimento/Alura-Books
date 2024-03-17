@@ -15,6 +15,7 @@ Certifique-se de ter o Node.js instalado em seu sistema. Você pode baixá-lo em
 1. Clone este repositório em sua máquina local.
 2. Navegue até o diretório do projeto usando o terminal.
 3. Execute o seguinte comando para instalar as dependências:
+
    ```
    npm install
    ```
@@ -43,7 +44,3 @@ Contribuições são bem-vindas! Se você tiver sugestões de melhorias, correç
 ## Autores
 
 Este projeto foi desenvolvido como parte do curso Full Stack da Alura por Valtair Nascimento Junior, sob a orientação dos instrutores da Alura.
-
-```
-
-```
